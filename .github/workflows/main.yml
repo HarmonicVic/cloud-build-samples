@@ -1,0 +1,3 @@
+- name: DeployHQ - Trigger a Deployment with a webhook
+  uses: deployhq/deployhq-action@0.2
+            
